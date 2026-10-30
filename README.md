@@ -33,6 +33,6 @@ Real-world data is rarely clean. This project simulates a typical data engineeri
 ## 📂 Project Structure
 ```text
 ├── ecommerce_messy_data.xlsx      # Raw, uncleaned dataset containing errors
-├── Data cleaning_2.py             # Python script containing the cleaning pipeline
+├── Data cleaning.py               # Python script containing the cleaning pipeline
 ├── ecommerce_cleaned_data.xlsx    # Final cleaned and processed dataset
 └── README.md                      # Project documentation
